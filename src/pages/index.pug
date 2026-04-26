@@ -1,9 +1,11 @@
 doctype html
 html
   head
-    title foobar
+    title vite+pug
+    link(rel="icon" href="/favicon.svg" type="image/svg+xml")
   body
     h1 index page
     include @_btn/btn.pug
+    img(src="assets/javascript.svg")
+    img(src="assets/pug.png")
     script(src="/main.js" type="module")
-    script(src="/blocks/btn/btn.js" type="module")

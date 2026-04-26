@@ -12,6 +12,6 @@
     "@mish.dev/vite-convert-pug-in-html": "^2.0.0",
     "pug": "^3.0.4",
     "sass": "^1.99.0",
-    "vite": "^7.0.10"
+    "vite": "^8.0.10"
   }
 }
